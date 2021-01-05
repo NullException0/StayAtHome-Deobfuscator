@@ -19,3 +19,8 @@ You have to reverse the malware itself, this encryption method is based on this 
 086aa916e3de9133415dab0075deeced
 97d31fb3c830f7a441288e1853371c07
 ```
+
+MyCERT advisory
+```
+https://www.mycert.org.my/portal/advisory?id=MA-788.062020
+```
